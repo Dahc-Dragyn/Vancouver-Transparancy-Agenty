@@ -1,0 +1,16 @@
+# MCP Framework
+fastmcp
+
+# Web Scraping & Automation
+playwright
+
+# AI / LLM Integration
+google-generativeai
+
+# Database & Persistence
+firebase-admin
+
+# Environment & Utilities
+python-dotenv
+asyncio
+resend
